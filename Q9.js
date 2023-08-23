@@ -2,7 +2,7 @@
 // Q No.9.	Develop a program that determines the day of the week. 
 // Ask the user for a number (1-7) and use nested
 // if statements to print the corresponding day's name.
-var day = 4;
+var day = 6;
 if (day == 1) {
     console.log("Monday");
 }
