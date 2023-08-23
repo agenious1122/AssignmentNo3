@@ -13,4 +13,4 @@ else if (num % 3 != 0 && num % 5 == 0) {
     console.log("The given number is divisible by 5 but not by 3");
 }
 else
-    console.log("The given number is nor divisible by 3 nor by 5");
+    console.log("The given number is not divisible by 3 nor by 5");
