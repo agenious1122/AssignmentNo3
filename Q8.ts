@@ -1,11 +1,11 @@
 // Q No.8.	Write a program that checks if the given year 
 // is leap year or not.
-var year:number=2016
+var year:number=2036
 if (year%4==0) 
 {
-    console.log("The year is Leap Year")    
+    console.log("The year" ,year, " is Leap Year")    
 } 
 else 
 {
-    console.log("The year is not a Leap year")    
+    console.log("The year", year, "is not a Leap year")    
 }
